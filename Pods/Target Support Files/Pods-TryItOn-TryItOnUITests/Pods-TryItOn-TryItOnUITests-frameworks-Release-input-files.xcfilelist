@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-TryItOn-TryItOnUITests/Pods-TryItOn-TryItOnUITests-frameworks.sh
+${BUILT_PRODUCTS_DIR}/GlidingCollection/GlidingCollection.framework
+${BUILT_PRODUCTS_DIR}/expanding-collection/expanding_collection.framework

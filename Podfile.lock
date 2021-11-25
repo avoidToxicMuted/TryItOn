@@ -1,0 +1,20 @@
+PODS:
+  - expanding-collection (3.1.0)
+  - GlidingCollection (2.1.0)
+
+DEPENDENCIES:
+  - expanding-collection
+  - GlidingCollection
+
+SPEC REPOS:
+  trunk:
+    - expanding-collection
+    - GlidingCollection
+
+SPEC CHECKSUMS:
+  expanding-collection: 7eb1fc48c6ec5e00c8887fe46c595c31b81b578a
+  GlidingCollection: a15dbd9ec1775c781453bc36e6104d0c9dec20fb
+
+PODFILE CHECKSUM: 0ac69ea30964ed85b50d5898382b14756b45439a
+
+COCOAPODS: 1.11.0

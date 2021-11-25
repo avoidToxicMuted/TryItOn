@@ -1,0 +1,6 @@
+framework module Pods_TryItOn {
+  umbrella header "Pods-TryItOn-umbrella.h"
+
+  export *
+  module * { export * }
+}
